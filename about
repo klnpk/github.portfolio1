@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About - Tejasree</title>
+  <meta name="google-site-verification" content="google48c2ce50c8d62e37.html">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Tejasree</h1>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About Me</h2>
+    <p>
+      I'm kolanupaka Tejasree i, a 3rd-year B.Tech CSE student from Sree Chaitanya College of Engineering, Telangana.
+    </p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Tejasree. All rights reserved.</p>
+  </footer>
+</body>
+</html>
